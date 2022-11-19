@@ -1,0 +1,8 @@
+﻿end    // lexical - would fail right at beginning, because of wrong program starter being used
+
+hello[1];
+hello    = 239485734523458290348572098345702983475; //lexical - wrong number of byes declared
+hello += hello + a; //lexical - can’t add a char to an int
+hello * hello / hello: // lexical - wrong punctuation at end of statement
+
+begin //lexical - wrong program ender

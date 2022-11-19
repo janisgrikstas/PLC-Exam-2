@@ -1,0 +1,8 @@
+﻿begin
+int[2] = 123// syntax - undeclared variable
+watching( i = 1 ~ i<2 ~ i++ //syntax error - missing closing parentheses
+int[2]+i // syntax - missing semicolon at end of statement
+in+3; //syntax- misspelled int
+
+end
+

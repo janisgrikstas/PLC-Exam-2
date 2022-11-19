@@ -1,0 +1,9 @@
+﻿begin
+int[2];
+int[2] = 123
+watching( i = 1 ~ i<2 ~ i++)
+int[2]+i;
+
+end
+
+passed

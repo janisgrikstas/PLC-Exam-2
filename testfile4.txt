@@ -1,0 +1,7 @@
+﻿begin
+hello[1];
+hello    = 239
+hello += hello ;
+hello * hello / hello;
+
+end
